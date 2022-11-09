@@ -40,3 +40,18 @@
     height: 50px;
     background: #ffd60a;
 }
+
+.block6 {
+    position: absolute;
+    margin-top: 500px;
+    width: 570px;
+    height: 120px;
+    background: #6930c3;
+}
+
+.block7 {
+    position: absolute;
+    width: 570px;
+    height: 20px;
+    background: #8ac926;
+}
